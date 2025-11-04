@@ -15,7 +15,7 @@ Features include:
 
 ---
 
-## 🚀 Installation
+## Installation
 1. Clone the repo into your PROS project:
    ```bash
    git clone https://github.com/yourname/vexlib-pros.git include/vexlib
